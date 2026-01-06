@@ -1,0 +1,3 @@
+- Read the codebase to fully understand the context
+- When you have made changes make sure to run `./mvnw clean compile` to verify the code compiles, then run `./mvnw test` to verify all tests pass
+- All changes should use idiomatic Java 21
